@@ -102,7 +102,7 @@
     "@biomejs/biome": "^2.5.5",
     "@types/qrcode-terminal": "^0.12.2",
     "@vitest/coverage-v8": "^4.1.10",
-    "nock": "^14.0.16",
+    "nock": "^15.0.1",
     "typescript": "^7.0.2",
     "vitest": "^4.1.10"
   }
